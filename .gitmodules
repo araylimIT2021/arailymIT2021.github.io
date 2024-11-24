@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/araylimIT2021/araylimIT2021.github.io.git
+	branch = main
